@@ -1,0 +1,19 @@
+
+
+//VSRV1/B.Homes$/tuyuchen/Desktop/final_project/project/vga_adapter/vga_pll.v
+
+Nov 18 11AM:30:51>: Error in CNX file format.
+
+Error messages are listed in file
+//VSRV1/B.Homes$/tuyuchen/Desktop/final_project/project/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+//VSRV1/B.Homes$/tuyuchen/Desktop/final_project/project/vga_adapter/vga_pll.v
+
+Nov 18 11AM:33:16>: Error in CNX file format.
+
+Error messages are listed in file
+//VSRV1/B.Homes$/tuyuchen/Desktop/final_project/project/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
