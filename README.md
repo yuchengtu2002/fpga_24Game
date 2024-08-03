@@ -1,6 +1,9 @@
 # fpga_24Game
 An FPGA-based classic 24-game
 
+
+*This project is the final project for the course ECE241 at ECE, University of Toronto*
+
 This is an FPGA-based design of the classic 24 game. The player(s) will be prompted with four integers displayed by the VGA monitor. They should input a mathematical expression using these numbers, and the game validates the result using an ALU and FSM. The game offers three puzzles in total. In each puzzle, the user is given four numbers, and the main goal is to use all four numbers exactly once, with basic arithmetic operations and brackets, to make 24. The three puzzles have increasing difficulties. 
 
 Title Screen:
