@@ -19,9 +19,9 @@ Some inputs are not permitted:
 - Do not use all given numbers
 - Division but not whole number division, Divide by 0
 - The parenthesis don’t match 
-- Operation make sense （no +-×）
+- Operations that don't make sense such as 5+*6  (this is to input "5am6")
 
-- If the user enters a valid operation, we will evaluate the result. The result will be displayed on HEX4 and 5.
+- We will evaluate the result if the user enters a valid operation. The result will be displayed on HEX4 and 5.
 If the result is not 24, we enter the fail state. Users can enter key[1] to retry.
 
 - If the user gets 24, we enter the success screen. The user can enter key[1] to try another approach or enter key[2] to proceed to the next puzzle.
